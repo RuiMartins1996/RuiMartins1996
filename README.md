@@ -5,8 +5,8 @@ The main objective of my thesis is to improve the software techniques used in El
 
 Currently I am working on applications of automatic differentiation in:
 
-- Ordinary Differential Equations solvers, namely explictit Runge-Kutta methods
-- Symmetric positive-definitie Linear system solvers, namely the Conjugate Gradient Method.
+- Ordinary Differential Equations solvers, namely explicit Runge-Kutta methods
+- The Conjugate Gradient Method.
 
 
 <!-- TO DO: add more details about me later -->
